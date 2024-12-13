@@ -1,5 +1,5 @@
 ## Olá! Me chamo Gabriel Fernandes.
-Estudante na área de desenvolvimento de softwares e eletroeletrônica. Possuo conhecimento em: HTML5, CSS3, JavaScript, C++, Ladder, Python, Figma e Git.  
+Estudante na área de desenvolvimento de softwares e eletroeletrônica ambos no SENAI. Possuo conhecimento em: HTML5, CSS3, JavaScript, C++, Ladder, Python, Figma e Git.  
 Tenho facilidade no aprendizado de novas habilidades e grande capacidade analítica, assim como uma boa criatividade. Sei inglês básico.
 
 ## 📱 Meus contatos:
