@@ -73,9 +73,15 @@
 
 ### 🏅 Certificações
 - ✅ **Python Essentials 1** (Cisco)
+- ✅ **JavaScript Essentials 1 e 2** (Cisco)
+- ✅ **English for IT** (Cisco)
+- ✅ **Google Cloud Data Analytics Certificate**
+- ✅ **Google Cloud Computing Foundations Certificate**
 - ✅ **IT Essentials: PC Hardware and Software** (Cisco)
-- ✅ **Web 3.0**
-- ✅ **Microsoft 365 Collaboration**
+- ✅ **Introduction to IoT** (Cisco)
+- ✅ **Web 3.0** (SENAI EAD)
+- ✅ **Desvendando o 5G** (SENAI EAD)
+- ✅ **LGPD - Privacidade e Proteção de Dados** (SENAI EAD)
 
 ---
 
@@ -109,5 +115,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/gabriel-wav/gabriel-wav/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=gabriel-wav&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+  
 </div>
