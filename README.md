@@ -72,6 +72,7 @@
 - [ ] Conquistar primeira vaga como **Desenvolvedor Júnior**
 
 ### 🏅 Certificações
+- ✅ **WEB Development Fundamentals** (IBM)
 - ✅ **Python Essentials 1** (Cisco)
 - ✅ **JavaScript Essentials 1 e 2** (Cisco)
 - ✅ **English for IT** (Cisco)
@@ -97,7 +98,7 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-fs-dev/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabfer.silva@gmail.com)
+  [![Yahoo](https://img.shields.io/badge/Yahoo-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:gabfer.silva@yahoo.com)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511994239012)
   
 </div>
