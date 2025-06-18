@@ -66,7 +66,7 @@
 ## 🏆 Conquistas & Objetivos
 
 ### 🎯 Objetivos 2025
-- [ ] Contribuir para projetos **open source**
+- [ ] Se **aprofundar** no C++
 - [ ] Desenvolver **3 projetos** full-stack completos
 - [ ] Aprender **Qt** e **desenvolvimento de aplicações desktop**
 - [ ] Conquistar primeira vaga como **Desenvolvedor Júnior**
