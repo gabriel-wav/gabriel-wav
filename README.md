@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-🎓 **Formação:** Técnico em **Eletroeletrônica**, Estudante de **Técnologo em Desenvolvimento de Software Multiplataforma** (FATEC) e **Técnico em Desenvolvimento de Sistemas** (SENAI)  
+🎓 **Formação:** Técnico em **Eletroeletrônica**, Atualmente estudando **Técnologo em Desenvolvimento de Software Multiplataforma** (FATEC) e **Técnico em Desenvolvimento de Sistemas** (SENAI)  
 💡 **Paixão:** Tecnologias que unem **lógica**, **criatividade** e **propósito**  
 ⚡ **Diferencial:** Combinando conhecimentos de **eletrônica** e **software** para soluções completas  
 
