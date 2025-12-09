@@ -66,8 +66,7 @@
 ## 🏆 Conquistas & Objetivos
 
 ### 🎯 Objetivos 2025
-- [ ] Se **aprofundar** em Front End
-- [ ] Desenvolver **3 projetos** full-stack completos
+- ✅ Desenvolver **3 projetos** full-stack completos
 - [ ] Conquistar primeira vaga como **Desenvolvedor Júnior**
 
 ### 🏅 Certificações
