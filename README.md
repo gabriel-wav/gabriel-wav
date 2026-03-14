@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-🎓 **Formação:** Técnico em **Eletroeletrônica**, Atualmente estudando **Técnologo em Desenvolvimento de Software Multiplataforma** (FATEC) e **Técnico em Desenvolvimento de Sistemas** (SENAI)  
+🎓 **Formação:** Técnico em **Eletroeletrônica** (SENAI) e **Técnico em Desenvolvimento de Sistemas** (SENAI), Atualmente estudando **Técnologo em Desenvolvimento de Software Multiplataforma** (FATEC)  
 💡 **Paixão:** Tecnologias que unem **lógica**, **criatividade** e **propósito**  
 ⚡ **Diferencial:** Combinando conhecimentos de **eletrônica** e **software** para soluções completas  
 
@@ -63,11 +63,7 @@
 
 ---
 
-## 🏆 Conquistas & Objetivos
-
-### 🎯 Objetivos 2025
-- ✅ Desenvolver **3 projetos** full-stack completos
-- [ ] Conquistar primeira vaga como **Desenvolvedor Júnior**
+## 🏆 Conquistas
 
 ### 🏅 Certificações
 - ✅ **WEB Development Fundamentals** (IBM)
@@ -106,8 +102,14 @@
 
 ---
 
+<!-- <div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=gabriel-wav&theme=tokyonight)
+
+</div> -->
+
 <div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=gabriel-wav&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-  
+
+![Trophies](https://github-trophies.vercel.app/?username=gabriel-wav&theme=tokyonight&no-frame=true&row=1&column=7)
+
 </div>
