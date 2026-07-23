@@ -1,6 +1,6 @@
 # Gabriel Fernandes
 
-Backend developer in training. Focused on Python, Django, and building real-world systems.
+Backend developer in training. Focused on learning Java, Springboot and building real-world systems. I know Python basic to intermediaty.
 
 ---
 
@@ -31,14 +31,14 @@ A recruitment platform designed to improve candidate-job matching using semantic
 - Basic visual identity definition (colors and layout)
 - Workflow organization using Kanban
 
-> Built as a team project (SENAI). Focused on delivering a functional and structured system.
+> Built as a final team project in my technical course. Focused on delivering a functional and structured system.
 
 ---
 
 ## Skills
 
 **Backend**
-- Python: Django, Flask, building web applications
+- Python: Django, Flask, building web applications (now learning Java)
 - Databases: PostgreSQL, MS SQL SERVER, MySQL (queries, relationships)
 - Authentication: password recovery flows (email/SMS)
 
@@ -61,7 +61,7 @@ A backend-focused project to deepen my skills in:
 
 ## Education
 
-**Technologist in Multiplatform Software Development** — FATEC (in progress)  
+**Technologist in Multiplatform Software Development (Systems Analysis and Development)** — FATEC (in progress)  
 **Technical Certificate in Systems Development** — SENAI  
 **Technical Certificate in Electronics** — SENAI
 
