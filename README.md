@@ -1,6 +1,6 @@
 # Gabriel Fernandes
 
-Backend developer in training. Focused on learning Java now, Springboot and building real-world systems. I know Python basic to intermediate.
+Backend developer in training. Focused on learning Python, Django and building real-world systems. I know Python basic to intermediate.
 
 ---
 
